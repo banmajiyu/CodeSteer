@@ -1,0 +1,34 @@
+# ===== 密钥（绝对不能入库） =====
+.env
+.env.*
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ===== pip / 沙箱临时目录 =====
+.tmp/
+
+# ===== 系统垃圾 =====
+.DS_Store
+Thumbs.db
+
+# ===== 第三方依赖（124MB，可重新安装，不入库） =====
+repro/vendor/
+repro/wheels/
+
+# ===== 运行日志（41MB jsonl / 分片 stdout） =====
+repro/logs/
+
+# ===== 逐样本实验产物（8 万+ 小文件 / 69MB） =====
+# 只把汇总表 summary_*.md/csv/json 与 REPORT.md 入库，原始样本数据留在本机
+repro/results/main_off/
+repro/results/main_strip/
+repro/results/main_on/
+repro/results/smoke/
+repro/results/archive_*/
+repro/results/sens_*/
+repro/results/letters_sentence/
+repro/results/dbg/

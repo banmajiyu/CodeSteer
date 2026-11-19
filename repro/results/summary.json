@@ -1,0 +1,330 @@
+{
+ "generated_at": "2026-11-19 00:04:22",
+ "modes": {
+  "off": {
+   "scores": {
+    "number_multiply": {
+     "1_only_ques": 100.0,
+     "All_text": 98.0,
+     "All_code_CoT": 66.0,
+     "AutoGen": 98.0,
+     "Text_code_summarizer": 98.0
+    },
+    "game24": {
+     "1_only_ques": 78.26086956521739,
+     "All_text": 82.6086956521739,
+     "All_code_CoT": 69.56521739130434,
+     "AutoGen": 71.73913043478261,
+     "Text_code_summarizer": 86.95652173913044
+    },
+    "MATH_geometry": {
+     "1_only_ques": 92.0,
+     "All_text": 94.0,
+     "All_code_CoT": 90.0,
+     "AutoGen": 75.0,
+     "Text_code_summarizer": null
+    },
+    "big_bench_hard": {
+     "1_only_ques": 98.5,
+     "All_text": 95.06172839506173,
+     "All_code_CoT": null,
+     "AutoGen": null,
+     "Text_code_summarizer": null
+    },
+    "letters": {
+     "1_only_ques": 96.0,
+     "All_text": 100.0,
+     "All_code_CoT": 97.43589743589743,
+     "AutoGen": null,
+     "Text_code_summarizer": null
+    }
+   },
+   "ave_norm": {
+    "1_only_ques": 96.77446808510638,
+    "All_text": 97.90187378579932,
+    "All_code_CoT": 84.79514457174032,
+    "AutoGen": 86.76241134751773,
+    "Text_code_summarizer": 99.0
+   },
+   "counts": {
+    "number_multiply|1_only_ques": [
+     50,
+     50
+    ],
+    "number_multiply|All_text": [
+     49,
+     50
+    ],
+    "number_multiply|All_code_CoT": [
+     33,
+     50
+    ],
+    "number_multiply|AutoGen": [
+     49,
+     50
+    ],
+    "number_multiply|Text_code_summarizer": [
+     49,
+     50
+    ],
+    "game24|1_only_ques": [
+     36,
+     46
+    ],
+    "game24|All_text": [
+     38,
+     46
+    ],
+    "game24|All_code_CoT": [
+     32,
+     46
+    ],
+    "game24|AutoGen": [
+     33,
+     46
+    ],
+    "game24|Text_code_summarizer": [
+     40,
+     46
+    ],
+    "MATH_geometry|1_only_ques": [
+     46,
+     50
+    ],
+    "MATH_geometry|All_text": [
+     47,
+     50
+    ],
+    "MATH_geometry|All_code_CoT": [
+     45,
+     50
+    ],
+    "MATH_geometry|AutoGen": [
+     3,
+     4
+    ],
+    "big_bench_hard|1_only_ques": [
+     197,
+     200
+    ],
+    "big_bench_hard|All_text": [
+     77,
+     81
+    ],
+    "letters|1_only_ques": [
+     48,
+     50
+    ],
+    "letters|All_text": [
+     50,
+     50
+    ],
+    "letters|All_code_CoT": [
+     38,
+     39
+    ]
+   }
+  },
+  "strip": {
+   "scores": {
+    "number_multiply": {
+     "1_only_ques": 100.0,
+     "All_text": 100.0,
+     "All_code_CoT": 36.0,
+     "AutoGen": 100.0,
+     "Text_code_summarizer": 100.0
+    },
+    "game24": {
+     "1_only_ques": 100.0,
+     "All_text": 100.0,
+     "All_code_CoT": 95.65217391304348,
+     "AutoGen": 95.65217391304348,
+     "Text_code_summarizer": 100.0
+    },
+    "MATH_geometry": {
+     "1_only_ques": 98.0,
+     "All_text": 96.0,
+     "All_code_CoT": 0.0,
+     "AutoGen": null,
+     "Text_code_summarizer": null
+    },
+    "big_bench_hard": {
+     "1_only_ques": 98.5,
+     "All_text": 100.0,
+     "All_code_CoT": null,
+     "AutoGen": null,
+     "Text_code_summarizer": null
+    }
+   },
+   "ave_norm": {
+    "1_only_ques": 99.625,
+    "All_text": 99.48979591836735,
+    "All_code_CoT": 43.88405797101449,
+    "AutoGen": 97.82608695652173,
+    "Text_code_summarizer": 100.0
+   },
+   "counts": {
+    "number_multiply|1_only_ques": [
+     50,
+     50
+    ],
+    "number_multiply|All_text": [
+     50,
+     50
+    ],
+    "number_multiply|All_code_CoT": [
+     18,
+     50
+    ],
+    "number_multiply|AutoGen": [
+     50,
+     50
+    ],
+    "number_multiply|Text_code_summarizer": [
+     23,
+     23
+    ],
+    "game24|1_only_ques": [
+     46,
+     46
+    ],
+    "game24|All_text": [
+     46,
+     46
+    ],
+    "game24|All_code_CoT": [
+     44,
+     46
+    ],
+    "game24|AutoGen": [
+     44,
+     46
+    ],
+    "game24|Text_code_summarizer": [
+     46,
+     46
+    ],
+    "MATH_geometry|1_only_ques": [
+     49,
+     50
+    ],
+    "MATH_geometry|All_text": [
+     48,
+     50
+    ],
+    "MATH_geometry|All_code_CoT": [
+     0,
+     1
+    ],
+    "big_bench_hard|1_only_ques": [
+     197,
+     200
+    ],
+    "big_bench_hard|All_text": [
+     5,
+     5
+    ]
+   }
+  },
+  "on": {
+   "scores": {
+    "number_multiply": {
+     "1_only_ques": 100.0,
+     "All_text": 100.0,
+     "All_code_CoT": 86.0,
+     "AutoGen": 100.0,
+     "Text_code_summarizer": 100.0
+    },
+    "game24": {
+     "1_only_ques": 100.0,
+     "All_text": 97.82608695652173,
+     "All_code_CoT": 93.47826086956522,
+     "AutoGen": 97.82608695652173,
+     "Text_code_summarizer": 97.82608695652173
+    },
+    "MATH_geometry": {
+     "1_only_ques": 100.0,
+     "All_text": 100.0,
+     "All_code_CoT": null,
+     "AutoGen": null,
+     "Text_code_summarizer": null
+    },
+    "big_bench_hard": {
+     "1_only_ques": 97.26775956284153,
+     "All_text": null,
+     "All_code_CoT": null,
+     "AutoGen": null,
+     "Text_code_summarizer": null
+    }
+   },
+   "ave_norm": {
+    "1_only_ques": 100.0,
+    "All_text": 99.27536231884058,
+    "All_code_CoT": 89.73913043478261,
+    "AutoGen": 98.91304347826086,
+    "Text_code_summarizer": 98.91304347826086
+   },
+   "counts": {
+    "number_multiply|1_only_ques": [
+     50,
+     50
+    ],
+    "number_multiply|All_text": [
+     50,
+     50
+    ],
+    "number_multiply|All_code_CoT": [
+     43,
+     50
+    ],
+    "number_multiply|AutoGen": [
+     50,
+     50
+    ],
+    "number_multiply|Text_code_summarizer": [
+     15,
+     15
+    ],
+    "game24|1_only_ques": [
+     46,
+     46
+    ],
+    "game24|All_text": [
+     45,
+     46
+    ],
+    "game24|All_code_CoT": [
+     43,
+     46
+    ],
+    "game24|AutoGen": [
+     45,
+     46
+    ],
+    "game24|Text_code_summarizer": [
+     45,
+     46
+    ],
+    "MATH_geometry|1_only_ques": [
+     50,
+     50
+    ],
+    "MATH_geometry|All_text": [
+     47,
+     47
+    ],
+    "big_bench_hard|1_only_ques": [
+     178,
+     183
+    ]
+   }
+  }
+ },
+ "tasks": [
+  "number_multiply",
+  "game24",
+  "MATH_geometry",
+  "big_bench_hard",
+  "letters"
+ ]
+}

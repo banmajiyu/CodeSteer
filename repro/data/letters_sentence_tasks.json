@@ -1,0 +1,1199 @@
+[
+ {
+  "id": 0,
+  "letter": "r",
+  "sentence": "The hallway smelt of boiled cabbage and old rag mats.",
+  "count": 1,
+  "positions": [
+   37
+  ],
+  "num_words": 10,
+  "num_chars": 53
+ },
+ {
+  "id": 1,
+  "letter": "r",
+  "sentence": "It was the police patrol, snooping into people's windows.",
+  "count": 1,
+  "positions": [
+   18
+  ],
+  "num_words": 9,
+  "num_chars": 57
+ },
+ {
+  "id": 2,
+  "letter": "r",
+  "sentence": "There was one on the house-front immediately opposite.",
+  "count": 2,
+  "positions": [
+   4,
+   24
+  ],
+  "num_words": 8,
+  "num_chars": 54
+ },
+ {
+  "id": 3,
+  "letter": "r",
+  "sentence": "It was safer; though, as he well knew, even a back can be revealing.",
+  "count": 2,
+  "positions": [
+   10,
+   46
+  ],
+  "num_words": 14,
+  "num_chars": 68
+ },
+ {
+  "id": 4,
+  "letter": "r",
+  "sentence": "On each landing, opposite the lift-shaft, the poster with the enormous face gazed from the wall.",
+  "count": 3,
+  "positions": [
+   45,
+   56,
+   71
+  ],
+  "num_words": 16,
+  "num_chars": 96
+ },
+ {
+  "id": 5,
+  "letter": "r",
+  "sentence": "It was one of those pictures which are so contrived that the eyes follow you about when you move.",
+  "count": 3,
+  "positions": [
+   21,
+   30,
+   38
+  ],
+  "num_words": 19,
+  "num_chars": 97
+ },
+ {
+  "id": 6,
+  "letter": "r",
+  "sentence": "The black-moustachio'd face gazed down from every commanding corner.",
+  "count": 4,
+  "positions": [
+   36,
+   42,
+   56,
+   59
+  ],
+  "num_words": 9,
+  "num_chars": 68
+ },
+ {
+  "id": 7,
+  "letter": "r",
+  "sentence": "There was of course no way of knowing whether you were being watched at any given moment.",
+  "count": 4,
+  "positions": [
+   4,
+   14,
+   37,
+   43
+  ],
+  "num_words": 17,
+  "num_chars": 89
+ },
+ {
+  "id": 8,
+  "letter": "e",
+  "sentence": "The black eyebrows were less bushy, the wrinkles were gone, the whole lines of the face seemed to have altered; even the nose seemed shorter.",
+  "count": 30,
+  "positions": [
+   3,
+   9,
+   11,
+   18,
+   20,
+   22,
+   33,
+   40,
+   43,
+   45,
+   49,
+   53,
+   58,
+   62,
+   68,
+   72,
+   74,
+   75,
+   77,
+   84,
+   88,
+   90,
+   93,
+   95,
+   99,
+   103,
+   105,
+   106,
+   108,
+   115
+  ],
+  "num_words": 25,
+  "num_chars": 141
+ },
+ {
+  "id": 9,
+  "letter": "e",
+  "sentence": "Her lips were deeply reddened, her cheeks rouged, her nose powdered; there was even a touch of something under the eyes to make them brighter.",
+  "count": 28,
+  "positions": [
+   2,
+   9,
+   11,
+   13,
+   14,
+   19,
+   22,
+   24,
+   28,
+   32,
+   33,
+   40,
+   44,
+   49,
+   54,
+   56,
+   61,
+   63,
+   67,
+   69,
+   82,
+   91,
+   95,
+   96,
+   98,
+   105,
+   108,
+   116
+  ],
+  "num_words": 25,
+  "num_chars": 142
+ },
+ {
+  "id": 10,
+  "letter": "e",
+  "sentence": "There were the vast repositories where the corrected documents were stored, and the hidden furnaces where the original copies were destroyed.",
+  "count": 27,
+  "positions": [
+   3,
+   5,
+   7,
+   9,
+   12,
+   18,
+   27,
+   31,
+   33,
+   36,
+   41,
+   44,
+   51,
+   56,
+   58,
+   63,
+   71,
+   76,
+   84,
+   88,
+   90,
+   93,
+   106,
+   109,
+   111,
+   113,
+   119
+  ],
+  "num_words": 21,
+  "num_chars": 141
+ },
+ {
+  "id": 11,
+  "letter": "e",
+  "sentence": "The social atmosphere is that of a besieged city, where the possession of a lump of horseflesh makes the difference between wealth and poverty.",
+  "count": 22,
+  "positions": [
+   3,
+   17,
+   19,
+   30,
+   33,
+   35,
+   44,
+   46,
+   49,
+   54,
+   73,
+   76,
+   82,
+   86,
+   91,
+   93,
+   96,
+   98,
+   101,
+   102,
+   105,
+   116
+  ],
+  "num_words": 24,
+  "num_chars": 143
+ },
+ {
+  "id": 12,
+  "letter": "e",
+  "sentence": "But none of these projects ever comes anywhere near realization, and none of the three super-states ever gains a significant lead on the others.",
+  "count": 22,
+  "positions": [
+   7,
+   12,
+   14,
+   19,
+   23,
+   25,
+   30,
+   37,
+   39,
+   41,
+   45,
+   62,
+   67,
+   71,
+   72,
+   76,
+   83,
+   85,
+   87,
+   107,
+   114,
+   118
+  ],
+  "num_words": 24,
+  "num_chars": 144
+ },
+ {
+  "id": 13,
+  "letter": "e",
+  "sentence": "Where the Lottery was concerned, even people who could barely read and write seemed capable of intricate calculations and staggering feats of memory.",
+  "count": 21,
+  "positions": [
+   3,
+   5,
+   8,
+   13,
+   23,
+   26,
+   29,
+   31,
+   34,
+   38,
+   50,
+   54,
+   64,
+   66,
+   67,
+   69,
+   77,
+   88,
+   109,
+   115,
+   122
+  ],
+  "num_words": 23,
+  "num_chars": 149
+ },
+ {
+  "id": 14,
+  "letter": "e",
+  "sentence": "Immediately after lunch there arrived a delicate, difficult piece of work which would take several hours and necessitated putting everything else aside.",
+  "count": 21,
+  "positions": [
+   4,
+   9,
+   15,
+   24,
+   26,
+   32,
+   36,
+   42,
+   55,
+   57,
+   77,
+   79,
+   81,
+   94,
+   96,
+   103,
+   112,
+   114,
+   122,
+   125,
+   130
+  ],
+  "num_words": 22,
+  "num_chars": 152
+ },
+ {
+  "id": 15,
+  "letter": "e",
+  "sentence": "You are unable to remember real events and you persuade yourself that you remember other events which never happened.",
+  "count": 21,
+  "positions": [
+   6,
+   12,
+   16,
+   18,
+   21,
+   24,
+   27,
+   29,
+   40,
+   46,
+   52,
+   63,
+   65,
+   68,
+   73,
+   75,
+   77,
+   87,
+   89,
+   95,
+   97
+  ],
+  "num_words": 19,
+  "num_chars": 117
+ },
+ {
+  "id": 16,
+  "letter": "s",
+  "sentence": "The new aristocracy was made up for the most part of bureaucrats, scientists, technicians, trade-union organizers, publicity experts, sociologists, teachers, journalists, and professional politicians.",
+  "count": 19,
+  "positions": [
+   10,
+   20,
+   35,
+   53,
+   55,
+   62,
+   64,
+   76,
+   98,
+   115,
+   117,
+   126,
+   128,
+   137,
+   147,
+   149,
+   159,
+   160,
+   176
+  ],
+  "num_words": 24,
+  "num_chars": 200
+ },
+ {
+  "id": 17,
+  "letter": "s",
+  "sentence": "It struck him that the truly characteristic thing about modern life was not its cruelty and insecurity, but simply its bareness, its dinginess, its listlessness.",
+  "count": 18,
+  "positions": [
+   3,
+   34,
+   60,
+   66,
+   79,
+   91,
+   99,
+   106,
+   107,
+   111,
+   119,
+   120,
+   124,
+   127,
+   131,
+   132,
+   135,
+   136
+  ],
+  "num_words": 25,
+  "num_chars": 161
+ },
+ {
+  "id": 18,
+  "letter": "s",
+  "sentence": "Sometimes it was fists, sometimes it was truncheons, sometimes it was steel rods, sometimes it was boots.",
+  "count": 18,
+  "positions": [
+   1,
+   9,
+   14,
+   17,
+   19,
+   21,
+   29,
+   34,
+   44,
+   46,
+   54,
+   59,
+   60,
+   68,
+   70,
+   78,
+   83,
+   88
+  ],
+  "num_words": 17,
+  "num_chars": 105
+ },
+ {
+  "id": 19,
+  "letter": "s",
+  "sentence": "It was impossible, in spite of the endless arrests and confessions and executions, to be sure that the Brotherhood was not simply a myth.",
+  "count": 15,
+  "positions": [
+   5,
+   10,
+   11,
+   19,
+   34,
+   35,
+   40,
+   42,
+   51,
+   52,
+   56,
+   69,
+   75,
+   99,
+   103
+  ],
+  "num_words": 24,
+  "num_chars": 137
+ },
+ {
+  "id": 20,
+  "letter": "s",
+  "sentence": "'Stand easy!' barked the instructress, a little more Winston sank his arms to his sides and slowly refilled his lungs with air.",
+  "count": 15,
+  "positions": [
+   2,
+   9,
+   24,
+   32,
+   33,
+   49,
+   53,
+   59,
+   63,
+   68,
+   69,
+   73,
+   77,
+   93,
+   98
+  ],
+  "num_words": 22,
+  "num_chars": 127
+ },
+ {
+  "id": 21,
+  "letter": "s",
+  "sentence": "Sometimes it was buttons, sometimes it was darning wool, sometimes it was shoelaces; at present it was razor blades.",
+  "count": 15,
+  "positions": [
+   1,
+   9,
+   14,
+   21,
+   23,
+   31,
+   36,
+   49,
+   57,
+   62,
+   63,
+   71,
+   78,
+   86,
+   97
+  ],
+  "num_words": 19,
+  "num_chars": 116
+ },
+ {
+  "id": 22,
+  "letter": "s",
+  "sentence": "Sometimes it stopped for a few seconds, spread out and resettled its wings, then swelled its speckled breast and again burst into song.",
+  "count": 15,
+  "positions": [
+   1,
+   9,
+   12,
+   26,
+   32,
+   34,
+   48,
+   57,
+   62,
+   68,
+   77,
+   78,
+   90,
+   103,
+   109
+  ],
+  "num_words": 23,
+  "num_chars": 135
+ },
+ {
+  "id": 23,
+  "letter": "s",
+  "sentence": "'Three thousand,' he said, speaking over Winston's head to the Two soft pads, which felt slightly moist, clamped themselves against Winston's temples.",
+  "count": 15,
+  "positions": [
+   11,
+   19,
+   24,
+   39,
+   44,
+   57,
+   64,
+   75,
+   86,
+   100,
+   105,
+   111,
+   116,
+   121,
+   128
+  ],
+  "num_words": 22,
+  "num_chars": 150
+ },
+ {
+  "id": 24,
+  "letter": "t",
+  "sentence": "A sense of complete helplessness had descended upon him.",
+  "count": 1,
+  "positions": [
+   15
+  ],
+  "num_words": 9,
+  "num_chars": 56
+ },
+ {
+  "id": 25,
+  "letter": "t",
+  "sentence": "Moreover his varicose ulcer had begun itching unbearably.",
+  "count": 1,
+  "positions": [
+   34
+  ],
+  "num_words": 8,
+  "num_chars": 57
+ },
+ {
+  "id": 26,
+  "letter": "t",
+  "sentence": "The black-moustachio'd face gazed down from every commanding corner.",
+  "count": 2,
+  "positions": [
+   1,
+   14
+  ],
+  "num_words": 9,
+  "num_chars": 68
+ },
+ {
+  "id": 27,
+  "letter": "t",
+  "sentence": "It was safer; though, as he well knew, even a back can be revealing.",
+  "count": 2,
+  "positions": [
+   2,
+   12
+  ],
+  "num_words": 14,
+  "num_chars": 68
+ },
+ {
+  "id": 28,
+  "letter": "t",
+  "sentence": "The hallway smelt of boiled cabbage and old rag mats.",
+  "count": 3,
+  "positions": [
+   1,
+   15,
+   42
+  ],
+  "num_words": 10,
+  "num_chars": 53
+ },
+ {
+  "id": 29,
+  "letter": "t",
+  "sentence": "The Ministry of Love, which maintained law and order.",
+  "count": 3,
+  "positions": [
+   1,
+   9,
+   28
+  ],
+  "num_words": 9,
+  "num_chars": 53
+ },
+ {
+  "id": 30,
+  "letter": "t",
+  "sentence": "It was the police patrol, snooping into people's windows.",
+  "count": 4,
+  "positions": [
+   2,
+   6,
+   17,
+   32
+  ],
+  "num_words": 9,
+  "num_chars": 57
+ },
+ {
+  "id": 31,
+  "letter": "t",
+  "sentence": "The Ministry of Peace, which concerned itself with war.",
+  "count": 4,
+  "positions": [
+   1,
+   9,
+   35,
+   42
+  ],
+  "num_words": 9,
+  "num_chars": 55
+ },
+ {
+  "id": 32,
+  "letter": "a",
+  "sentence": "A Eurasian army (Oceania was at war with Eurasia: Oceania had always been at war with Eurasia) was moving southward at terrifying speed.",
+  "count": 23,
+  "positions": [
+   1,
+   5,
+   8,
+   10,
+   18,
+   21,
+   23,
+   25,
+   28,
+   37,
+   40,
+   45,
+   48,
+   50,
+   52,
+   55,
+   62,
+   65,
+   74,
+   77,
+   80,
+   94,
+   97
+  ],
+  "num_words": 23,
+  "num_chars": 136
+ },
+ {
+  "id": 33,
+  "letter": "a",
+  "sentence": "Books, also, were recalled and rewritten again and again, and were invariably reissued without any admission that any alteration had been made.",
+  "count": 19,
+  "positions": [
+   7,
+   19,
+   24,
+   36,
+   38,
+   41,
+   44,
+   46,
+   50,
+   60,
+   63,
+   82,
+   85,
+   96,
+   98,
+   101,
+   106,
+   112,
+   119
+  ],
+  "num_words": 22,
+  "num_chars": 143
+ },
+ {
+  "id": 34,
+  "letter": "a",
+  "sentence": "Actually, as Winston well knew, it was only four years since Oceania had been at war with Eastasia and in alliance with Eurasia.",
+  "count": 18,
+  "positions": [
+   1,
+   5,
+   10,
+   31,
+   43,
+   54,
+   57,
+   59,
+   65,
+   68,
+   75,
+   78,
+   81,
+   82,
+   87,
+   91,
+   102,
+   105
+  ],
+  "num_words": 23,
+  "num_chars": 128
+ },
+ {
+  "id": 35,
+  "letter": "a",
+  "sentence": "Oceania was at war with Eastasia: Oceania had always been at war with Eastasia.",
+  "count": 18,
+  "positions": [
+   4,
+   7,
+   9,
+   11,
+   14,
+   21,
+   24,
+   27,
+   32,
+   35,
+   37,
+   39,
+   42,
+   49,
+   52,
+   59,
+   62,
+   65
+  ],
+  "num_words": 14,
+  "num_chars": 79
+ },
+ {
+  "id": 36,
+  "letter": "a",
+  "sentence": "But in each variant of Socialism that appeared from about 1900 onwards the aim of establishing liberty and equality was more and more openly abandoned.",
+  "count": 17,
+  "positions": [
+   7,
+   11,
+   14,
+   23,
+   30,
+   32,
+   36,
+   44,
+   56,
+   63,
+   71,
+   87,
+   93,
+   99,
+   105,
+   118,
+   120
+  ],
+  "num_words": 25,
+  "num_chars": 151
+ },
+ {
+  "id": 37,
+  "letter": "a",
+  "sentence": "At this moment, for example, in 1984 (if it was 1984), Oceania was at war with Eurasia and in alliance with Eastasia.",
+  "count": 16,
+  "positions": [
+   1,
+   19,
+   37,
+   48,
+   51,
+   53,
+   55,
+   58,
+   67,
+   70,
+   71,
+   76,
+   80,
+   89,
+   92,
+   95
+  ],
+  "num_words": 22,
+  "num_chars": 117
+ },
+ {
+  "id": 38,
+  "letter": "a",
+  "sentence": "Oceania was at war with Eurasia: therefore Oceania had always been at war with Eurasia.",
+  "count": 16,
+  "positions": [
+   4,
+   7,
+   9,
+   11,
+   14,
+   23,
+   26,
+   40,
+   43,
+   45,
+   47,
+   50,
+   57,
+   60,
+   69,
+   72
+  ],
+  "num_words": 15,
+  "num_chars": 87
+ },
+ {
+  "id": 39,
+  "letter": "a",
+  "sentence": "War was a sure safeguard of sanity, and so far as the ruling classes were concerned it was probably the most important of all safeguards.",
+  "count": 16,
+  "positions": [
+   2,
+   5,
+   7,
+   13,
+   18,
+   24,
+   30,
+   36,
+   38,
+   51,
+   72,
+   78,
+   95,
+   100,
+   104,
+   109
+  ],
+  "num_words": 25,
+  "num_chars": 137
+ },
+ {
+  "id": 40,
+  "letter": "z",
+  "sentence": "Year by year and minute by minute, everybody and everything was whizzing rapidly upwards.",
+  "count": 2,
+  "positions": [
+   57,
+   58
+  ],
+  "num_words": 14,
+  "num_chars": 89
+ },
+ {
+  "id": 41,
+  "letter": "z",
+  "sentence": "'E was kind of zig-zagging across the pavement, and I bumps into 'im accidental-like.",
+  "count": 2,
+  "positions": [
+   12,
+   16
+  ],
+  "num_words": 14,
+  "num_chars": 85
+ },
+ {
+  "id": 42,
+  "letter": "z",
+  "sentence": "From whatever angle you looked at the poster, the muzzle of the gun, magnified by the foreshortening, seemed to be pointed straight at you.",
+  "count": 2,
+  "positions": [
+   44,
+   45
+  ],
+  "num_words": 24,
+  "num_chars": 139
+ },
+ {
+  "id": 43,
+  "letter": "z",
+  "sentence": "But there was the razor blade; they would send the razor blade if they could.",
+  "count": 2,
+  "positions": [
+   17,
+   44
+  ],
+  "num_words": 15,
+  "num_chars": 77
+ },
+ {
+  "id": 44,
+  "letter": "z",
+  "sentence": "He was strapped into a chair surrounded by dials, under dazzling lights.",
+  "count": 2,
+  "positions": [
+   49,
+   50
+  ],
+  "num_words": 12,
+  "num_chars": 72
+ },
+ {
+  "id": 45,
+  "letter": "z",
+  "sentence": "And when you were free you were puzzled by what was essentially the same question.",
+  "count": 2,
+  "positions": [
+   28,
+   29
+  ],
+  "num_words": 15,
+  "num_chars": 82
+ },
+ {
+  "id": 46,
+  "letter": "z",
+  "sentence": "Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN, and Attendants Welcome, dear Rosencrantz and Guildenstern!",
+  "count": 2,
+  "positions": [
+   43,
+   93
+  ],
+  "num_words": 14,
+  "num_chars": 122
+ },
+ {
+  "id": 47,
+  "letter": "z",
+  "sentence": "On each landing, opposite the lift-shaft, the poster with the enormous face gazed from the wall.",
+  "count": 1,
+  "positions": [
+   67
+  ],
+  "num_words": 16,
+  "num_chars": 96
+ },
+ {
+  "id": 48,
+  "letter": "q",
+  "sentence": "For the rest it was just a noise, a quack-quack-quacking.",
+  "count": 3,
+  "positions": [
+   28,
+   34,
+   40
+  ],
+  "num_words": 10,
+  "num_chars": 57
+ },
+ {
+  "id": 49,
+  "letter": "q",
+  "sentence": "He tried to squeeze out some childhood memory that should tell him whether London had always been quite like this.",
+  "count": 2,
+  "positions": [
+   11,
+   82
+  ],
+  "num_words": 20,
+  "num_chars": 114
+ },
+ {
+  "id": 50,
+  "letter": "q",
+  "sentence": "He would go into the pub, he would scrape acquaintance with that old man and question him.",
+  "count": 2,
+  "positions": [
+   36,
+   63
+  ],
+  "num_words": 17,
+  "num_chars": 90
+ },
+ {
+  "id": 51,
+  "letter": "q",
+  "sentence": "Why, a pint's the 'alf of a quart, and there's four quarts to the gallon.",
+  "count": 2,
+  "positions": [
+   22,
+   42
+  ],
+  "num_words": 15,
+  "num_chars": 73
+ },
+ {
+  "id": 52,
+  "letter": "q",
+  "sentence": "All he wanted was to get home quickly and then sit down and be quiet.",
+  "count": 2,
+  "positions": [
+   24,
+   50
+  ],
+  "num_words": 15,
+  "num_chars": 69
+ },
+ {
+  "id": 53,
+  "letter": "q",
+  "sentence": "She gave the tips of his fingers a quick squeeze that seemed to invite not desire but affection.",
+  "count": 2,
+  "positions": [
+   28,
+   34
+  ],
+  "num_words": 18,
+  "num_chars": 96
+ },
+ {
+  "id": 54,
+  "letter": "q",
+  "sentence": "In the end his mother broke off three-quarters of the chocolate and gave it to Winston, giving the other quarter to his sister.",
+  "count": 2,
+  "positions": [
+   32,
+   87
+  ],
+  "num_words": 23,
+  "num_chars": 127
+ },
+ {
+  "id": 55,
+  "letter": "q",
+  "sentence": "They could be tracked down by enquiry, they could be squeezed out of you by torture.",
+  "count": 2,
+  "positions": [
+   27,
+   45
+  ],
+  "num_words": 16,
+  "num_chars": 84
+ },
+ {
+  "id": 56,
+  "letter": "x",
+  "sentence": "His sexual life, for example, was entirely regulated by the two Newspeak words SEXCRIME (sexual immorality) and GOODSEX (chastity).",
+  "count": 5,
+  "positions": [
+   6,
+   19,
+   69,
+   78,
+   102
+  ],
+  "num_words": 19,
+  "num_chars": 131
+ },
+ {
+  "id": 57,
+  "letter": "x",
+  "sentence": "Not merely the validity of experience, but the very existence of external reality, was tacitly denied by their philosophy.",
+  "count": 3,
+  "positions": [
+   24,
+   45,
+   56
+  ],
+  "num_words": 19,
+  "num_chars": 122
+ },
+ {
+  "id": 58,
+  "letter": "x",
+  "sentence": "He did not exist: he had never existed.",
+  "count": 2,
+  "positions": [
+   10,
+   26
+  ],
+  "num_words": 8,
+  "num_chars": 39
+ },
+ {
+  "id": 59,
+  "letter": "x",
+  "sentence": "There were even organizations such as the Junior Anti-Sex League, which advocated complete celibacy for both sexes.",
+  "count": 2,
+  "positions": [
+   49,
+   96
+  ],
+  "num_words": 17,
+  "num_chars": 115
+ },
+ {
+  "id": 60,
+  "letter": "x",
+  "sentence": "If both the past and the external world exist only in the mind, and if the mind itself is controllable what But no!",
+  "count": 2,
+  "positions": [
+   21,
+   34
+  ],
+  "num_words": 23,
+  "num_chars": 115
+ },
+ {
+  "id": 61,
+  "letter": "x",
+  "sentence": "Her eyes were fixed on his, with an appealing expression that A curious emotion stirred in Winston's heart.",
+  "count": 2,
+  "positions": [
+   14,
+   39
+  ],
+  "num_words": 18,
+  "num_chars": 107
+ },
+ {
+  "id": 62,
+  "letter": "x",
+  "sentence": "Sex talks once a month for the over-sixteens.",
+  "count": 2,
+  "positions": [
+   3,
+   32
+  ],
+  "num_words": 8,
+  "num_chars": 45
+ },
+ {
+  "id": 63,
+  "letter": "x",
+  "sentence": "There was a direct intimate connexion between chastity and political orthodoxy.",
+  "count": 2,
+  "positions": [
+   29,
+   67
+  ],
+  "num_words": 11,
+  "num_chars": 79
+ }
+]
