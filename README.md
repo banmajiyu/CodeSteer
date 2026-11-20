@@ -9,6 +9,29 @@
 
 复现的方法是给官方仓库补一个**零侵入的补丁层**（`repro/`）：通过 `sys.path` + monkey-patch + 源码级注入，补齐原仓库缺失的 4 个 baseline 方法分支、把 `python3` 换成当前解释器、把 GPT-4o 裁判换成 DeepSeek 裁判，然后跑完全部实验。
 
+---
+
+## 一分钟看懂
+
+| 想看的 | 直接点 |
+|---|---|
+| **两页摘要**（主结果 + 三个发现 + 踩坑表，PDF） | [repro/results/复现摘要_两页.pdf](repro/results/复现摘要_两页.pdf) |
+| **完整报告**（与论文逐条对照、判分审计、偏差分析、成本账单） | [repro/results/REPORT.md](repro/results/REPORT.md) |
+| **逐任务结果表** | [repro/results/summary_final.md](repro/results/summary_final.md) |
+| 论文任务 → 仓库 runner 的映射与缺口 | [repro/TASKS_AND_GAPS.md](repro/TASKS_AND_GAPS.md) |
+
+**结论方向与论文一致**：`Code+Text+Sum.` 在三种思考模式下都排第一（AveNorm 99.4 / 99.4 / 99.7）；代码类方法并不必然更好（A 组 `All_code_CoT` 77.2 < `All_text` 88.8，Blocksworld 上甚至只有 12%）。
+
+**复现中发现的三个问题**（论文未涉及，但会改变结论）：
+
+1. **判分聚合规则偏松**——把「双裁判任一判对」改成「两个都判对」，总分只掉 2 分，代码类方法却掉 7~12 分。用 sympy 独立复核 1,000 个样本，裁判与本地精确解一致率 99.6%：问题不在裁判，在聚合规则。
+2. **思考预算会伪装成方法差异**——思考 token 与答案共享 completion 预算；预算 2,500 时 B 组 27.9% 的样本正文为空、Path Plan / BoxNet 被判 0%，把预算提到 8,000 后同一批样本变成 12~40%。
+3. **难度只在要求精度时才区分方法**——整数乘法加到 18 位、题面换成场景清单，准确率始终 100%（已饱和）；换成浮点超越函数复合、要求 10 位有效数字后，代码方法 100%、纯文本 75~81%；但容差放宽到 1e-3，五个方法又全部回到 100%。
+
+---
+
+## 复现方式
+
 ```text
 任务数据/原版 runner ──► repro/env_win.py（环境补丁）
                           repro/patch_methods.py（方法注入）
@@ -24,7 +47,8 @@
 |---|---|
 | [CodeSteer-v1.0/](CodeSteer-v1.0) | 官方代码、数据、模型配置与论文原版 README（**保持原样，不要改**） |
 | [repro/](repro) | 本次复现的全部代码：环境补丁、方法注入、runner、判分、汇总、成本统计 |
-| [repro/results/](repro/results) | 汇总表（`summary*.md` / `summary.csv` / `summary.json`）与逐样本产物 |
+| [repro/results/](repro/results) | 汇总表（`summary*.md` / `summary.csv` / `summary.json`）、两页摘要 PDF 与逐样本产物 |
+| [repro/results/复现摘要_两页.pdf](repro/results/复现摘要_两页.pdf) | **两页摘要**：主结果表 + 三个发现 + 踩坑表 + 成本（发给别人看这个） |
 | [repro/results/REPORT.md](repro/results/REPORT.md) | **完整复现报告**：结果表、与论文逐条对照、偏差分析、成本账单 |
 | [repro/TASKS_AND_GAPS.md](repro/TASKS_AND_GAPS.md) | 论文 14 个任务在官方仓库里的落地情况与缺口清单 |
 | [doc/](doc) | 论文 PDF（英文原版 + 中文版）与抽取出的正文 `steering_extracted.txt` |
@@ -133,11 +157,16 @@ python -X utf8 run_all.py --tasks gsm,game24 --methods 1_only_ques   # 只跑子
 python -X utf8 run_all.py --force                          # 忽略已完成记录重跑
 ```
 
-追求速度用并行分片启动器（3 种思考模式 × 3 个任务分片 = 9 个 worker，各自独立记账与日志）：
+追求速度用并行分片启动器（3 种思考模式 × 3 个任务分片 = 9 个 worker，各自独立记账与日志）。注意本机 PowerShell 执行策略会拦截未签名脚本（`SecurityError: 未对文件 ... 进行数字签名`），需要内联启动，例如：
 
 ```powershell
-pwsh -File launch_shards.ps1
+cd repro
+$env:THINK_MODE='off'; $env:REPRO_STATE_TAG='s1'; $env:REPRO_LOG="$PWD\logs\llm_calls_off_s1.jsonl"
+& <你的 python.exe> -X utf8 run_all.py --cap 25 --tasks game24,number_multiply,letters,gsm 2>&1 |
+  Tee-Object -FilePath logs\run_off_s1.log
 ```
+
+分片建议：`s1` = game24,number_multiply,letters,gsm；`s2` = MATH_geometry,MATH_cp,BoxNet1,blocksworld,BoxLift；`s3` = big_bench_hard,path_plan,letters_sentence。**同一任务不要并行跑两个 worker**，否则会争抢同一个结果目录。
 
 ### 5. 汇总与成本
 
