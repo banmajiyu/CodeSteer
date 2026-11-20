@@ -1,0 +1,189 @@
+{
+ "summary": {
+  "variant": "orig",
+  "method": "All_code_CoT",
+  "think_mode": "off",
+  "n": 25,
+  "correct": 25,
+  "acc": 1.0,
+  "elapsed_s": 47.0,
+  "used_code": 25
+ },
+ "rows": [
+  {
+   "id": 0,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 1,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 2,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 3,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 4,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 5,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 6,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 7,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 8,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 9,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 10,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 11,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 12,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 13,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 14,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 15,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 16,
+   "answer": "No",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 17,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 18,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 19,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 20,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 21,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 22,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 23,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  },
+  {
+   "id": 24,
+   "answer": "Yes",
+   "correct": true,
+   "reason": "correct",
+   "used_code": true
+  }
+ ]
+}

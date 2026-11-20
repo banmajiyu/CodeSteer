@@ -1,0 +1,7 @@
+{
+ "question": "Question: Inga tells the truth. Shenna says Inga lies. Rashida says Shenna tells the truth. Ka says Rashida tells the truth. Shalonda says Ka tells the truth. Does Shalonda tell the truth?",
+ "prompt": "Question: Inga tells the truth. Shenna says Inga lies. Rashida says Shenna tells the truth. Ka says Rashida tells the truth. Shalonda says Ka tells the truth. Does Shalonda tell the truth?\nSurround the final answer with <<<content>>>, exactly <<<Yes>>> or <<<No>>>.\nYour answer:\n",
+ "response": "Let's go through this step by step.\n\n1. **Inga tells the truth** — given as a fact.\n2. **Shenna says Inga lies** — Since Inga tells the truth, Shenna’s statement is false. So Shenna lies.\n3. **Rashida says Shenna tells the truth** — But Shenna lies, so Rashida’s statement is false. Rashida lies.\n4. **Ka says Rashida tells the truth** — Rashida lies, so Ka’s statement is false. Ka lies.\n5. **Shalonda says Ka tells the truth** — Ka lies, so Shalonda’s statement is false. Shalonda lies.\n\nSo the answer is No.\n\n<<<No>>>",
+ "code": null,
+ "exec_out": ""
+}

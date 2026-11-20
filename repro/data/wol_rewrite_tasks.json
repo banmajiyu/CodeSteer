@@ -1,0 +1,177 @@
+[
+ {
+  "id": 0,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Durand reports accurately. Clerk Holt says Clerk Durand reports accurately. Clerk Brandt says Clerk Holt fabricates. Clerk Voss says Clerk Brandt reports accurately. Clerk Halloway says Clerk Voss fabricates. Clerk Sable says Clerk Halloway reports accurately. Does Clerk Sable report accurately?",
+  "n": 6,
+  "ask_index": 5,
+  "answer": "Yes"
+ },
+ {
+  "id": 1,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Durand reports accurately. Clerk Tobias says Clerk Durand reports accurately. Clerk Crane says Clerk Tobias reports accurately. Clerk Fisk says Clerk Crane fabricates. Clerk Grimm says Clerk Fisk fabricates. Clerk Brandt says Clerk Grimm reports accurately. Does Clerk Tobias report accurately?",
+  "n": 6,
+  "ask_index": 1,
+  "answer": "Yes"
+ },
+ {
+  "id": 2,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Fisk reports accurately. Clerk Tobias says Clerk Fisk fabricates. Clerk Brandt says Clerk Tobias fabricates. Clerk Grimm says Clerk Brandt fabricates. Clerk Halloway says Clerk Grimm reports accurately. Does Clerk Tobias report accurately?",
+  "n": 5,
+  "ask_index": 1,
+  "answer": "No"
+ },
+ {
+  "id": 3,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Jarvis reports accurately. Clerk Holt says Clerk Jarvis reports accurately. Clerk Mercer says Clerk Holt reports accurately. Clerk Vance says Clerk Mercer reports accurately. Clerk Voss says Clerk Vance fabricates. Clerk Pell says Clerk Voss reports accurately. Clerk Rune says Clerk Pell reports accurately. Does Clerk Vance report accurately?",
+  "n": 7,
+  "ask_index": 3,
+  "answer": "Yes"
+ },
+ {
+  "id": 4,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Grimm fabricates. Clerk Mercer says Clerk Grimm reports accurately. Clerk Holt says Clerk Mercer fabricates. Clerk Odell says Clerk Holt reports accurately. Does Clerk Holt report accurately?",
+  "n": 4,
+  "ask_index": 2,
+  "answer": "Yes"
+ },
+ {
+  "id": 5,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Odell reports accurately. Clerk Winslow says Clerk Odell fabricates. Clerk Voss says Clerk Winslow fabricates. Clerk Tobias says Clerk Voss reports accurately. Clerk Pell says Clerk Tobias reports accurately. Clerk Ives says Clerk Pell fabricates. Does Clerk Ives report accurately?",
+  "n": 6,
+  "ask_index": 5,
+  "answer": "No"
+ },
+ {
+  "id": 6,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Rowe fabricates. Clerk Halloway says Clerk Rowe fabricates. Clerk Sable says Clerk Halloway reports accurately. Clerk Winslow says Clerk Sable fabricates. Clerk Grimm says Clerk Winslow fabricates. Clerk Crane says Clerk Grimm reports accurately. Does Clerk Grimm report accurately?",
+  "n": 6,
+  "ask_index": 4,
+  "answer": "Yes"
+ },
+ {
+  "id": 7,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Grimm reports accurately. Clerk Holt says Clerk Grimm reports accurately. Clerk Fisk says Clerk Holt reports accurately. Clerk Tobias says Clerk Fisk fabricates. Clerk Adair says Clerk Tobias reports accurately. Does Clerk Holt report accurately?",
+  "n": 5,
+  "ask_index": 1,
+  "answer": "Yes"
+ },
+ {
+  "id": 8,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Adair fabricates. Clerk Odell says Clerk Adair fabricates. Clerk Fisk says Clerk Odell fabricates. Clerk Sable says Clerk Fisk reports accurately. Clerk Ives says Clerk Sable reports accurately. Clerk Pell says Clerk Ives fabricates. Clerk Ellery says Clerk Pell reports accurately. Does Clerk Odell report accurately?",
+  "n": 7,
+  "ask_index": 1,
+  "answer": "Yes"
+ },
+ {
+  "id": 9,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Sable fabricates. Clerk Pell says Clerk Sable fabricates. Clerk Grimm says Clerk Pell reports accurately. Clerk Winslow says Clerk Grimm fabricates. Does Clerk Pell report accurately?",
+  "n": 4,
+  "ask_index": 1,
+  "answer": "Yes"
+ },
+ {
+  "id": 10,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Sable fabricates. Clerk Adair says Clerk Sable reports accurately. Clerk Rune says Clerk Adair reports accurately. Clerk Odell says Clerk Rune fabricates. Clerk Tobias says Clerk Odell fabricates. Does Clerk Adair report accurately?",
+  "n": 5,
+  "ask_index": 1,
+  "answer": "No"
+ },
+ {
+  "id": 11,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Jarvis fabricates. Clerk Voss says Clerk Jarvis reports accurately. Clerk Winslow says Clerk Voss reports accurately. Clerk Grimm says Clerk Winslow fabricates. Clerk Mercer says Clerk Grimm reports accurately. Clerk Ives says Clerk Mercer fabricates. Clerk Rowe says Clerk Ives fabricates. Does Clerk Mercer report accurately?",
+  "n": 7,
+  "ask_index": 4,
+  "answer": "Yes"
+ },
+ {
+  "id": 12,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Crane reports accurately. Clerk Adair says Clerk Crane fabricates. Clerk Jarvis says Clerk Adair fabricates. Clerk Vance says Clerk Jarvis fabricates. Clerk Tobias says Clerk Vance fabricates. Does Clerk Tobias report accurately?",
+  "n": 5,
+  "ask_index": 4,
+  "answer": "Yes"
+ },
+ {
+  "id": 13,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Ellery reports accurately. Clerk Brandt says Clerk Ellery reports accurately. Clerk Sable says Clerk Brandt fabricates. Clerk Adair says Clerk Sable reports accurately. Clerk Mercer says Clerk Adair reports accurately. Clerk Halloway says Clerk Mercer reports accurately. Does Clerk Mercer report accurately?",
+  "n": 6,
+  "ask_index": 4,
+  "answer": "No"
+ },
+ {
+  "id": 14,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Brandt reports accurately. Clerk Winslow says Clerk Brandt reports accurately. Clerk Holt says Clerk Winslow reports accurately. Clerk Mercer says Clerk Holt fabricates. Clerk Tobias says Clerk Mercer fabricates. Clerk Crane says Clerk Tobias reports accurately. Clerk Ellery says Clerk Crane reports accurately. Does Clerk Mercer report accurately?",
+  "n": 7,
+  "ask_index": 3,
+  "answer": "No"
+ },
+ {
+  "id": 15,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Brandt fabricates. Clerk Mercer says Clerk Brandt fabricates. Clerk Pell says Clerk Mercer fabricates. Clerk Crane says Clerk Pell reports accurately. Clerk Halloway says Clerk Crane reports accurately. Clerk Voss says Clerk Halloway fabricates. Clerk Sable says Clerk Voss fabricates. Does Clerk Crane report accurately?",
+  "n": 7,
+  "ask_index": 3,
+  "answer": "No"
+ },
+ {
+  "id": 16,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Ellery fabricates. Clerk Mercer says Clerk Ellery fabricates. Clerk Holt says Clerk Mercer fabricates. Clerk Jarvis says Clerk Holt fabricates. Clerk Winslow says Clerk Jarvis fabricates. Clerk Durand says Clerk Winslow reports accurately. Clerk Adair says Clerk Durand fabricates. Does Clerk Jarvis report accurately?",
+  "n": 7,
+  "ask_index": 3,
+  "answer": "Yes"
+ },
+ {
+  "id": 17,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Ellery fabricates. Clerk Vance says Clerk Ellery fabricates. Clerk Winslow says Clerk Vance fabricates. Clerk Voss says Clerk Winslow fabricates. Clerk Durand says Clerk Voss fabricates. Clerk Odell says Clerk Durand fabricates. Does Clerk Durand report accurately?",
+  "n": 6,
+  "ask_index": 4,
+  "answer": "No"
+ },
+ {
+  "id": 18,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Brandt reports accurately. Clerk Odell says Clerk Brandt fabricates. Clerk Ives says Clerk Odell fabricates. Clerk Kessler says Clerk Ives reports accurately. Clerk Holt says Clerk Kessler fabricates. Clerk Rowe says Clerk Holt fabricates. Does Clerk Kessler report accurately?",
+  "n": 6,
+  "ask_index": 3,
+  "answer": "Yes"
+ },
+ {
+  "id": 19,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Holt fabricates. Clerk Fisk says Clerk Holt reports accurately. Clerk Halloway says Clerk Fisk reports accurately. Clerk Mercer says Clerk Halloway fabricates. Clerk Vance says Clerk Mercer reports accurately. Clerk Tobias says Clerk Vance reports accurately. Clerk Winslow says Clerk Tobias fabricates. Does Clerk Mercer report accurately?",
+  "n": 7,
+  "ask_index": 3,
+  "answer": "Yes"
+ },
+ {
+  "id": 20,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Durand reports accurately. Clerk Rowe says Clerk Durand fabricates. Clerk Mercer says Clerk Rowe reports accurately. Clerk Fisk says Clerk Mercer reports accurately. Clerk Kessler says Clerk Fisk reports accurately. Does Clerk Fisk report accurately?",
+  "n": 5,
+  "ask_index": 3,
+  "answer": "No"
+ },
+ {
+  "id": 21,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Brandt fabricates. Clerk Tobias says Clerk Brandt reports accurately. Clerk Fisk says Clerk Tobias fabricates. Clerk Halloway says Clerk Fisk reports accurately. Clerk Pell says Clerk Halloway reports accurately. Does Clerk Tobias report accurately?",
+  "n": 5,
+  "ask_index": 1,
+  "answer": "No"
+ },
+ {
+  "id": 22,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Sable reports accurately. Clerk Rune says Clerk Sable fabricates. Clerk Ives says Clerk Rune fabricates. Clerk Pell says Clerk Ives reports accurately. Clerk Kessler says Clerk Pell fabricates. Does Clerk Rune report accurately?",
+  "n": 5,
+  "ask_index": 1,
+  "answer": "No"
+ },
+ {
+  "id": 23,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Ellery fabricates. Clerk Adair says Clerk Ellery reports accurately. Clerk Fisk says Clerk Adair fabricates. Clerk Voss says Clerk Fisk reports accurately. Does Clerk Adair report accurately?",
+  "n": 4,
+  "ask_index": 1,
+  "answer": "No"
+ },
+ {
+  "id": 24,
+  "question": "Question: In the archive, every clerk either always reports accurately or always fabricates. Clerk Kessler fabricates. Clerk Rowe says Clerk Kessler fabricates. Clerk Odell says Clerk Rowe fabricates. Clerk Grimm says Clerk Odell reports accurately. Clerk Tobias says Clerk Grimm reports accurately. Does Clerk Odell report accurately?",
+  "n": 5,
+  "ask_index": 2,
+  "answer": "No"
+ }
+]

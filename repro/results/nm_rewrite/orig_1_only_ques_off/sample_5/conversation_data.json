@@ -1,0 +1,7 @@
+{
+ "question": "What is the result of -4*72*9767?",
+ "prompt": "What is the result of -4*72*9767?\nSurround the final answer with <<<content>>>, exactly <<<the integer>>>.\nYour answer:\n",
+ "response": "Let's compute step by step.\n\nFirst, multiply \\(-4\\) and \\(72\\):\n\n\\[\n-4 \\times 72 = -288\n\\]\n\nNow multiply \\(-288\\) by \\(9767\\):\n\n\\[\n-288 \\times 9767\n\\]\n\nBreak it down:\n\n\\(9767 \\times 288 = 9767 \\times (300 - 12)\\)\n\n\\(9767 \\times 300 = 2,930,100\\)\n\n\\(9767 \\times 12 = 117,204\\)\n\nSubtract:\n\n\\(2,930,100 - 117,204 = 2,812,896\\)\n\nSince one factor was negative, the result is \\(-2,812,896\\).\n\n<<<-2812896>>>",
+ "code": null,
+ "exec_out": ""
+}

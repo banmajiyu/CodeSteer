@@ -1,0 +1,53 @@
+{
+  "off": {
+    "lax": {
+      "1_only_ques": 90.3,
+      "All_text": 88.83282828282827,
+      "All_code_CoT": 77.16212121212122,
+      "AutoGen": 87.10757575757576,
+      "Text_code_summarizer": 99.3939393939394
+    },
+    "strict": {
+      "1_only_ques": 90.31858045336307,
+      "All_text": 88.36967332184724,
+      "All_code_CoT": 69.98182831661094,
+      "AutoGen": 83.54988344988344,
+      "Text_code_summarizer": 99.3939393939394
+    },
+    "n_tasks": 15
+  },
+  "strip": {
+    "lax": {
+      "1_only_ques": 94.77783341977717,
+      "All_text": 89.71900989036538,
+      "All_code_CoT": 89.09579167635432,
+      "AutoGen": 92.710407239819,
+      "Text_code_summarizer": 99.35785953177259
+    },
+    "strict": {
+      "1_only_ques": 94.44338525924204,
+      "All_text": 89.71900989036538,
+      "All_code_CoT": 77.41321338508038,
+      "AutoGen": 92.04151091874877,
+      "Text_code_summarizer": 99.35785953177259
+    },
+    "n_tasks": 13
+  },
+  "on": {
+    "lax": {
+      "1_only_ques": 94.29761904761905,
+      "All_text": 91.35317460317461,
+      "All_code_CoT": 90.48015873015872,
+      "AutoGen": 93.19444444444446,
+      "Text_code_summarizer": 99.70238095238095
+    },
+    "strict": {
+      "1_only_ques": 93.48274764451234,
+      "All_text": 91.180226636109,
+      "All_code_CoT": 89.32798573975046,
+      "AutoGen": 93.56792717086836,
+      "Text_code_summarizer": 99.67532467532469
+    },
+    "n_tasks": 14
+  }
+}

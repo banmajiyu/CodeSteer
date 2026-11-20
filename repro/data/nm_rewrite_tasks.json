@@ -1,0 +1,285 @@
+[
+ {
+  "id": 0,
+  "group": "digit_1_2_4",
+  "sample": 0,
+  "values": [
+   -4,
+   17,
+   7571
+  ],
+  "target": -514828
+ },
+ {
+  "id": 1,
+  "group": "digit_1_2_4",
+  "sample": 1,
+  "values": [
+   -6,
+   44,
+   -9255
+  ],
+  "target": 2443320
+ },
+ {
+  "id": 2,
+  "group": "digit_1_2_4",
+  "sample": 2,
+  "values": [
+   8,
+   -76,
+   -6996
+  ],
+  "target": 4253568
+ },
+ {
+  "id": 3,
+  "group": "digit_1_2_4",
+  "sample": 3,
+  "values": [
+   7,
+   -29,
+   -1186
+  ],
+  "target": 240758
+ },
+ {
+  "id": 4,
+  "group": "digit_1_2_4",
+  "sample": 4,
+  "values": [
+   3,
+   11,
+   -1221
+  ],
+  "target": -40293
+ },
+ {
+  "id": 5,
+  "group": "digit_1_2_4",
+  "sample": 5,
+  "values": [
+   -4,
+   72,
+   9767
+  ],
+  "target": -2812896
+ },
+ {
+  "id": 6,
+  "group": "digit_1_2_4",
+  "sample": 6,
+  "values": [
+   4,
+   60,
+   5250
+  ],
+  "target": 1260000
+ },
+ {
+  "id": 7,
+  "group": "digit_1_2_4",
+  "sample": 7,
+  "values": [
+   -9,
+   53,
+   7618
+  ],
+  "target": -3633786
+ },
+ {
+  "id": 8,
+  "group": "digit_1_2_4",
+  "sample": 8,
+  "values": [
+   -8,
+   52,
+   5115
+  ],
+  "target": -2127840
+ },
+ {
+  "id": 9,
+  "group": "digit_1_3_4",
+  "sample": 0,
+  "values": [
+   -4,
+   -583,
+   -7904
+  ],
+  "target": -18432128
+ },
+ {
+  "id": 10,
+  "group": "digit_1_3_4",
+  "sample": 1,
+  "values": [
+   4,
+   120,
+   -4430
+  ],
+  "target": -2126400
+ },
+ {
+  "id": 11,
+  "group": "digit_1_3_4",
+  "sample": 2,
+  "values": [
+   3,
+   -190,
+   -8028
+  ],
+  "target": 4575960
+ },
+ {
+  "id": 12,
+  "group": "digit_1_3_4",
+  "sample": 3,
+  "values": [
+   -4,
+   -464,
+   7912
+  ],
+  "target": 14684672
+ },
+ {
+  "id": 13,
+  "group": "digit_1_3_4",
+  "sample": 4,
+  "values": [
+   7,
+   912,
+   -1782
+  ],
+  "target": -11376288
+ },
+ {
+  "id": 14,
+  "group": "digit_1_3_4",
+  "sample": 5,
+  "values": [
+   7,
+   -442,
+   2319
+  ],
+  "target": -7174986
+ },
+ {
+  "id": 15,
+  "group": "digit_1_3_4",
+  "sample": 6,
+  "values": [
+   -2,
+   626,
+   7127
+  ],
+  "target": -8923004
+ },
+ {
+  "id": 16,
+  "group": "digit_1_3_4",
+  "sample": 7,
+  "values": [
+   2,
+   232,
+   -7990
+  ],
+  "target": -3707360
+ },
+ {
+  "id": 17,
+  "group": "digit_1_2_2_4",
+  "sample": 0,
+  "values": [
+   -9,
+   43,
+   -73,
+   -6061
+  ],
+  "target": -171229311
+ },
+ {
+  "id": 18,
+  "group": "digit_1_2_2_4",
+  "sample": 1,
+  "values": [
+   2,
+   -42,
+   42,
+   8133
+  ],
+  "target": -28693224
+ },
+ {
+  "id": 19,
+  "group": "digit_1_2_2_4",
+  "sample": 2,
+  "values": [
+   5,
+   -69,
+   90,
+   -9786
+  ],
+  "target": 303855300
+ },
+ {
+  "id": 20,
+  "group": "digit_1_2_2_4",
+  "sample": 3,
+  "values": [
+   6,
+   -56,
+   20,
+   1761
+  ],
+  "target": -11833920
+ },
+ {
+  "id": 21,
+  "group": "digit_1_2_2_4",
+  "sample": 4,
+  "values": [
+   -2,
+   78,
+   -61,
+   -5850
+  ],
+  "target": -55668600
+ },
+ {
+  "id": 22,
+  "group": "digit_1_2_2_4",
+  "sample": 5,
+  "values": [
+   7,
+   -31,
+   70,
+   -9705
+  ],
+  "target": 147418950
+ },
+ {
+  "id": 23,
+  "group": "digit_1_2_2_4",
+  "sample": 6,
+  "values": [
+   -7,
+   62,
+   37,
+   2038
+  ],
+  "target": -32726204
+ },
+ {
+  "id": 24,
+  "group": "digit_1_2_2_4",
+  "sample": 7,
+  "values": [
+   -6,
+   -36,
+   37,
+   -9305
+  ],
+  "target": -74365560
+ }
+]

@@ -1,0 +1,7 @@
+{
+ "question": "Question: Millie tells the truth. Millicent says Millie lies. Phoebe says Millicent tells the truth. Sherrie says Phoebe lies. Raymond says Sherrie tells the truth. Does Raymond tell the truth?",
+ "prompt": "Question: Millie tells the truth. Millicent says Millie lies. Phoebe says Millicent tells the truth. Sherrie says Phoebe lies. Raymond says Sherrie tells the truth. Does Raymond tell the truth?\nSurround the final answer with <<<content>>>, exactly <<<Yes>>> or <<<No>>>.\nYour answer:\n",
+ "response": "Let's go through this step by step.\n\n1. **Millie tells the truth** — given as a fact.\n2. **Millicent says Millie lies** — since Millie tells the truth, Millicent’s statement is false, so Millicent lies.\n3. **Phoebe says Millicent tells the truth** — but Millicent lies, so Phoebe’s statement is false; Phoebe lies.\n4. **Sherrie says Phoebe lies** — Phoebe does lie, so Sherrie’s statement is true; Sherrie tells the truth.\n5. **Raymond says Sherrie tells the truth** — Sherrie does tell the truth, so Raymond’s statement is true.\n\nTherefore, Raymond tells the truth.\n\n<<<Yes>>>",
+ "code": null,
+ "exec_out": ""
+}

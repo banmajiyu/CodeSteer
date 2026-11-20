@@ -1,0 +1,214 @@
+{
+ "summary": {
+  "variant": "orig",
+  "method": "AutoGen",
+  "think_mode": "off",
+  "n": 25,
+  "correct": 25,
+  "acc": 1.0,
+  "elapsed_s": 31.3,
+  "used_code": 0
+ },
+ "rows": [
+  {
+   "id": 0,
+   "group": "digit_1_2_4",
+   "target": -514828,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 1,
+   "group": "digit_1_2_4",
+   "target": 2443320,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 2,
+   "group": "digit_1_2_4",
+   "target": 4253568,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 3,
+   "group": "digit_1_2_4",
+   "target": 240758,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 4,
+   "group": "digit_1_2_4",
+   "target": -40293,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 5,
+   "group": "digit_1_2_4",
+   "target": -2812896,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 6,
+   "group": "digit_1_2_4",
+   "target": 1260000,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 7,
+   "group": "digit_1_2_4",
+   "target": -3633786,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 8,
+   "group": "digit_1_2_4",
+   "target": -2127840,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 9,
+   "group": "digit_1_3_4",
+   "target": -18432128,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 10,
+   "group": "digit_1_3_4",
+   "target": -2126400,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 11,
+   "group": "digit_1_3_4",
+   "target": 4575960,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 12,
+   "group": "digit_1_3_4",
+   "target": 14684672,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 13,
+   "group": "digit_1_3_4",
+   "target": -11376288,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 14,
+   "group": "digit_1_3_4",
+   "target": -7174986,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 15,
+   "group": "digit_1_3_4",
+   "target": -8923004,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 16,
+   "group": "digit_1_3_4",
+   "target": -3707360,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 17,
+   "group": "digit_1_2_2_4",
+   "target": -171229311,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 18,
+   "group": "digit_1_2_2_4",
+   "target": -28693224,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 19,
+   "group": "digit_1_2_2_4",
+   "target": 303855300,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 20,
+   "group": "digit_1_2_2_4",
+   "target": -11833920,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 21,
+   "group": "digit_1_2_2_4",
+   "target": -55668600,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 22,
+   "group": "digit_1_2_2_4",
+   "target": 147418950,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 23,
+   "group": "digit_1_2_2_4",
+   "target": -32726204,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  },
+  {
+   "id": 24,
+   "group": "digit_1_2_2_4",
+   "target": -74365560,
+   "correct": true,
+   "reason": "correct",
+   "used_code": false
+  }
+ ]
+}
