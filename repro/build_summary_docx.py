@@ -180,8 +180,8 @@ def build():
 
     # ---------- 一 ----------
     heading(doc, "一、做了什么", space_before=6)
-    add_text(doc, "给官方仓库 CodeSteer-v1.0 加一层零侵入补丁，在不改一行原码的前提下把论文的方法全部跑通，"
-                  "并在复现基础上补做了三组论文没有的对照实验。")
+    add_text(doc, "为官方仓库 CodeSteer-v1.0 增加一层零侵入补丁，在未修改任何原始代码的前提下完成论文全部方法的实现与运行，"
+                  "并在复现基础上补做三组论文未涉及的对照实验。")
     bullets = [
         ("规模", "15 个任务（论文 14 个 + 自建句级字母统计）× 5 个方法 × 3 种思考模式 = 225 个组合，"
                  "每任务 25 个样本（Navigate 11、BoxLift 20），正式实验 23,648 次 API 调用。"),
@@ -224,7 +224,7 @@ def build():
         add_text(doc, "· " + t, space_after=2.5, line=1.12)
 
     # ---------- 四 ----------
-    heading(doc, "四、这些数字要怎么读（引用前请先看）")
+    heading(doc, "四、结果解读的三点限制")
     for t in [
         "天花板效应：deepseek-flash 在 MATH / GSM / BBH 上多数任务已到 96~100%，15 个任务里有 6 个是"
         "「五个方法最低分都 ≥95%」；方法差异被压缩到几个点，真正能区分的是 Game 24、MATH-Geometry、"
@@ -263,10 +263,10 @@ def build():
         [3.6, 9.4, 4.4], size=8.2)
 
     # ---------- 六 ----------
-    heading(doc, "六、修掉的坑（症状 → 根因 → 修法）")
+    heading(doc, "六、复现中修正的问题（症状 → 根因 → 修正方式）")
     make_table(
         doc,
-        ["症状", "根因", "修法"],
+        ["症状", "根因", "修正方式"],
         [
             ["所有代码执行 stdout 恒空",
              "python -c 里的 Windows 路径 C:\\Users… 中 \\U 被当成 Unicode 转义 → SyntaxError，"
@@ -290,9 +290,9 @@ def build():
 
     # ---------- 七 ----------
     heading(doc, "七、成本与可复现性")
-    add_text(doc, "三组正式实验 23,648 次调用，约 58~116 元；含返工与冒烟共 56,084 次，约 117~234 元"
+    add_text(doc, "三组正式实验 23,648 次调用，约 58~116 元；含返工与验证性运行共 56,084 次，约 117~234 元"
                   "（deepseek-flash 官方价，逐次调用记账落在仓库 logs/）。"
-                  "一条命令可复算：python -X utf8 run_all.py --estimate（只估调用次数与耗时，不花钱）。"
+                  "一条命令可复算：python -X utf8 run_all.py --estimate（仅估算调用次数与耗时，不产生费用）。"
                   "完整报告见 repro/results/REPORT.md，含判分可信度审计、已知偏差与逐任务明细。",
              size=9.2, line=1.18)
 
